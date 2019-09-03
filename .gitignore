@@ -2,5 +2,11 @@
 comentarios/
 
 #não fazer upload do diretorio util
-util/
+*.psd
+
+#Não fazer o upload do arquivo stule.all.css
+style.all.css
+
+#Não fazer o upload do arquivo core.js
+core.js
 
