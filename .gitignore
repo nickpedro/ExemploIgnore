@@ -1,0 +1,6 @@
+#não fazer upload de diretorios de comentarios 
+comentarios/
+
+#não fazer upload do diretorio util
+util/
+
